@@ -1,7 +1,6 @@
 # -Plant-Co.-Sales-Performance-2023 and 2024---Data-Analysis-Recap-
 
-**🚀 Plant Co. Sales Performance 2023 - A Data-Driven Analysis 🌱
-**
+**🚀 Plant Co. Sales Performance 2023 - A Data-Driven Analysis 🌱**
 As a data analyst enthusiast, I had the opportunity to explore and visualize the sales performance for Plant Co. in 2023. Here are some key insights from the dashboard I created:
 
 Overall Sales Performance:
@@ -28,8 +27,7 @@ While the overall sales performance is robust, there is room for improvement, es
 Targeted strategies should be considered to boost sales in lower-performing countries and enhance profitability.
 This dashboard provides a comprehensive view of sales performance and helps to identify areas that need attention. I’m excited to continue diving into the data and uncovering actionable insights! 📊✨
 
-**🚀 Plant Co. Sales Performance 2024 - A Data-Driven Analysis 🌱
-**
+**🚀 Plant Co. Sales Performance 2024 - A Data-Driven Analysis 🌱**
 As we move through 2024, the sales performance for Plant Co. has been carefully analyzed, offering key insights and opportunities for growth. Here’s a snapshot of our performance so far:
 
 Overall Sales Performance:
